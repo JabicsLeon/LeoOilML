@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 #include <exception>
+#include <deque>
 #include <map>
 #include "LeoLib.hpp"
 
@@ -51,7 +52,7 @@ leo::matrix<double> synonym_matrix(std::vector<std::string> str_vec, double empl
 	return syn;
 }
 
-std::map<std::string, leo::vector<std::string>> dict_synonyms(std::vector<std::string> str_vec, double empl = 1, double del = 1, double swp = 1)
+std::map<std::string, leo::vector<std::string>> dict_synonyms(std::vector<std::string> str_vec, std::map<std::string, std::vector<std::string>> cheker, bool check = false, double empl = 1, double del = 1, double swp = 1)
 {
 	leo::matrix<double> syn = synonym_matrix(str_vec, empl, del, swp);
 
@@ -77,18 +78,37 @@ std::map<std::string, leo::vector<std::string>> dict_synonyms(std::vector<std::s
 				[](std::pair<std::string, double>& a)
 				{ return a.first; });
 
+		if (check)
+		{
+			std::deque<std::string> dq;
+
+			for (auto& it : sline)
+			for (auto& ch1 : cheker[str_vec[i]]) for (auto& ch2 : cheker[it]) 
+			if (ch1 == ch2) dq.push_back(it);
+
+			int dq_size = dq.size();
+
+			sline.resize(dq_size);
+
+			for (int j = 0; j < dq_size; ++j) 
+			{
+				sline[j] = dq.front();
+				dq.pop_front();
+			}
+		}
+
 		dict_syn[str_vec[i]] = sline;
 	}
 
 	return dict_syn;
-
 }
 
-void process(std::string way, std::string out="dict_synonyms.json", double empl = 1, double del = 1, double swp = 1)
+void process(std::string way, std::string out="dict_synonyms.json", bool check = false, double empl = 1, double del = 1, double swp = 1)
 {
 	std::stringstream ss = leo::ReadFile(way);
 
 	std::vector<std::string> line;
+	std::map<std::string, std::vector<std::string>> cheker;
 
 	int n = 0;
 	
@@ -96,15 +116,24 @@ void process(std::string way, std::string out="dict_synonyms.json", double empl 
 
 	line.reserve(n);
 
-	//while (n--, n >=0)
 	for (int i = 0; i < n; ++i)
 	{
 		std::string str;
 		ss >> str;
 		line.emplace_back(str);
+
+		int nums = 0;
+		ss >> nums;
+		cheker[str].reserve(nums);
+		for (int j = 0; j < nums; ++j)
+		{
+			std::string tp;
+			std::getline(ss, tp, '&');
+			cheker[str].emplace_back(tp);
+		}
 	}
 
-	std::map<std::string, leo::vector<std::string>> dict_syn = dict_synonyms(line, empl, del, swp);
+	std::map<std::string, leo::vector<std::string>> dict_syn = dict_synonyms(line, cheker, check, empl, del, swp);
 
 	std::stringstream so;
 	
@@ -130,20 +159,22 @@ void process(std::string way, std::string out="dict_synonyms.json", double empl 
 
 int main(int narg, char* args[])
 {
-	if (narg < 2) throw std::invalid_argument("There's no way to file!\nUsage: program list_synomycs.txt  [output_file] [cost_of_emplace] [cost_of_delete] [cost_of_swap]");
+	if (narg < 2) throw std::invalid_argument("There's no way to file!\nUsage: program list_synomycs.txt  check=[true/false] [output_file] [cost_of_emplace] [cost_of_delete] [cost_of_swap]");
 
 	std::string way = args[1];
 	std::string out = "dict_synonyms.json";
+	bool check = false;
 	double empl = 1.0;
 	double del = 1.0;
 	double swp = 1.0;
 
-	if (narg == 3) out = std::string(args[2]);
-	if (narg == 4) empl = std::stod(args[3]);
-	if (narg == 5) del = std::stod(args[4]);
-	if (narg == 6) swp = std::stod(args[5]);
+	if (narg == 3 && std::string(args[2]) == "check=true") check = true;
+	if (narg == 4) out = std::string(args[3]);
+	if (narg == 5) empl = std::stod(args[4]);
+	if (narg == 6) del = std::stod(args[5]);
+	if (narg == 7) swp = std::stod(args[6]);
 	
-	process(way, out, empl, del, swp);
+	process(way, out, check, empl, del, swp);
 	
 	return 0;
 }
