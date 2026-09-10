@@ -1,2495 +1,2495 @@
 1247
 DEPT
-3	m&M&_&
+3	m|M|_|
 BS
-3	in&inches&IN&
+3	in|inches|IN|
 CS
-1	ft/h&
+1	ft/h|
 ICV
-1	m3&
+1	m3|
 IHV
-1	m3&
+1	m3|
 TENS
-1	lbf&
+1	lbf|
 HTEN
-1	lbf&
+1	lbf|
 CTEM
-1	degC&
+1	degC|
 GR
-3	gAPI&GAPI&API&
+3	gAPI|GAPI|API|
 NPHI
-5	m3/m3&%&v/v&v/v_decimal&V/V&
+5	m3/m3|%|v/v|v/v_decimal|V/V|
 NPHI_DOL
-1	m3/m3&
+1	m3/m3|
 NPHI_LIM
-1	m3/m3&
+1	m3/m3|
 NPHI_SAN
-1	m3/m3&
+1	m3/m3|
 TNPH
-1	m3/m3&
+1	m3/m3|
 TNPH_DOL
-1	m3/m3&
+1	m3/m3|
 TNPH_LIM
-1	m3/m3&
+1	m3/m3|
 TNPH_SAN
-1	m3/m3&
+1	m3/m3|
 CALI
-3	in&IN&inches&
+3	in|IN|inches|
 HDRA
-1	g/cm3&
+1	g/cm3|
 PEF8
-1	_&
+1	_|
 PEFZ
-1	_&
+1	_|
 RHO8
-1	g/cm3&
+1	g/cm3|
 RHOZ
-1	g/cm3&
+1	g/cm3|
 U8
-1	_&
+1	_|
 UZ
-1	_&
+1	_|
 DI
-1	in&
+1	in|
 MRES
-1	ohm.m&
+1	ohm.m|
 RLA1
-1	ohm.m&
+1	ohm.m|
 RLA2
-1	ohm.m&
+1	ohm.m|
 RLA3
-1	ohm.m&
+1	ohm.m|
 RLA4
-1	ohm.m&
+1	ohm.m|
 RLA5
-1	ohm.m&
+1	ohm.m|
 RT
-2	ohm.m&OHMM&
+2	ohm.m|OHMM|
 RXO
-1	ohm.m&
+1	ohm.m|
 SP
-2	mV&MV&
+2	mV|MV|
 DTCO
-1	us/ft&
+1	us/ft|
 RXO8
-1	ohm.m&
+1	ohm.m|
 RXOZ
-1	ohm.m&
+1	ohm.m|
 GR:1
-1	GAPI&
+1	GAPI|
 TDEP
-3	M&0.1 in&m&
+3	M|0.1 in|m|
 SPD
-2	M/MN&m/min&
+2	M/MN|m/min|
 SEC
-2	S&s&
+2	S|s|
 BIT
-2	IN&in&
+2	IN|in|
 GR:2
-1	GAPI&
+1	GAPI|
 TEN
-2	LBF&lbf&
+2	LBF|lbf|
 CHT
-2	LBF&lbf&
+2	LBF|lbf|
 TTEN
-2	LBF&lbf&
+2	LBF|lbf|
 AZOD
-2	DEG&deg&
+2	DEG|deg|
 BVOL
-3	F3&m3&ft3&
+3	F3|m3|ft3|
 CAL
-2	IN&in&
+2	IN|in|
 CALA
-2	IN&in&
+2	IN|in|
 CALX
-2	IN&in&
+2	IN|in|
 CHV
-1	V&
+1	V|
 CN
-2	PU&pu&
+2	PU|pu|
 CNC
-2	PU&pu&
+2	PU|pu|
 CNCDL
-2	PU&pu&
+2	PU|pu|
 CNCF
-2	PU&pu&
+2	PU|pu|
 CNCFDL
-2	PU&pu&
+2	PU|pu|
 CNCFLS
-2	PU&pu&
+2	PU|pu|
 CNCFSS
-2	PU&pu&
+2	PU|pu|
 CNCLS
-2	PU&pu&
+2	PU|pu|
 CNCSS
-2	PU&pu&
+2	PU|pu|
 CVOL
-3	F3&m3&ft3&
+3	F3|m3|ft3|
 DAZOD
-2	DEG&deg&
+2	DEG|deg|
 DEVOD
-2	DEG&deg&
+2	DEG|deg|
 DT24
-2	I.US/F&us/ft&
+2	I.US/F|us/ft|
 DTH
-2	I.US/F&us/ft&
+2	I.US/F|us/ft|
 DTR
-2	I.US/F&us/ft&
+2	I.US/F|us/ft|
 DTT
-2	I.US/F&us/ft&
+2	I.US/F|us/ft|
 GRU
-2	GAPI&gAPI&
+2	GAPI|gAPI|
 HRD1
-1	_&
+1	_|
 HRD1S
-1	_&
+1	_|
 HRD2
-1	_&
+1	_|
 HRD2S
-1	_&
+1	_|
 LSD
-1	_&
+1	_|
 LSN
-2	HZ&1/s&
+2	HZ|1/s|
 LSNR
-2	HZ&1/s&
+2	HZ|1/s|
 MLR1C
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 MLR2C
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 MLR3C
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 MLR4C
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 PE
-2	B/E&b/e&
+2	B/E|b/e|
 QCAL
-1	_&
+1	_|
 RBOD
-2	DEG&deg&
+2	DEG|deg|
 RMLL
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 SFT2
-1	_&
+1	_|
 SFT2S
-1	_&
+1	_|
 SHR
-1	_&
+1	_|
 SHRC
-1	_&
+1	_|
 SOFT
-1	_&
+1	_|
 SOFTS
-1	_&
+1	_|
 SPW
-2	MV&mV&
+2	MV|mV|
 SPWDH
-2	MV&mV&
+2	MV|mV|
 SSD
-1	_&
+1	_|
 SSN
-2	HZ&1/s&
+2	HZ|1/s|
 SSNR
-2	HZ&1/s&
+2	HZ|1/s|
 WP
-2	PSI&psi&
+2	PSI|psi|
 WRM
-2	OHMM&ohm.m&
+2	OHMM|ohm.m|
 WTBH
-3	DEGC&degC&degF&
+3	DEGC|degC|degF|
 ZCOR
-2	G/C3&g/cm3&
+2	G/C3|g/cm3|
 ZDNC
-2	G/C3&g/cm3&
+2	G/C3|g/cm3|
 DTC
-2	US/F&us/ft&
+2	US/F|us/ft|
 DTCR
-2	US/F&us/ft&
+2	US/F|us/ft|
 DTCX
-2	US/F&us/ft&
+2	US/F|us/ft|
 DTS
-3	US/F&us/ft&_&
+3	US/F|us/ft|_|
 DTSD
-2	US/F&us/ft&
+2	US/F|us/ft|
 DTSR
-2	US/F&us/ft&
+2	US/F|us/ft|
 DTSX
-2	US/F&us/ft&
+2	US/F|us/ft|
 TT
-3	I&us&ms&
+3	I|us|ms|
 FORCE_2020_LITHOFACIES_CONFIDENCE
-1	_&
+1	_|
 FORCE_2020_LITHOFACIES_LITHOLOGY
-1	_&
+1	_|
 ROPA
-1	_&
+1	_|
 ROP
-2	m/h&m/hr&
+2	m/h|m/hr|
 RDEP
-1	ohm.m&
+1	ohm.m|
 RMED
-1	ohm.m&
+1	ohm.m|
 RMIC
-1	ohm.m&
+1	ohm.m|
 PEF
-3	b/e&b/elec&B/E&
+3	b/e|b/elec|B/E|
 RHOB
-3	g/cm3&G/CC&G/C3&
+3	g/cm3|G/CC|G/C3|
 DRHO
-2	g/cm3&G/CC&
+2	g/cm3|G/CC|
 DEPTH_MD
-1	_&
+1	_|
 X_LOC
-1	_&
+1	_|
 Y_LOC
-1	_&
+1	_|
 Z_LOC
-1	_&
+1	_|
 RSHA
-1	ohm.m&
+1	ohm.m|
 SGR
-1	gAPI&
+1	gAPI|
 DCAL
-1	in&
+1	in|
 MUDWEIGHT
-1	_&
+1	_|
 BK
-2	Ohmm&_&
+2	Ohmm|_|
 DS
-2	m&_&
+2	m|_|
 GK
-1	_&
+1	_|
 GZ1
-2	Ohmm&_&
+2	Ohmm|_|
 GZ2
-2	Ohmm&_&
+2	Ohmm|_|
 GZ3
-2	Ohmm&_&
+2	Ohmm|_|
 GZ4
-2	Ohmm&_&
+2	Ohmm|_|
 GZ5
-2	Ohmm&_&
+2	Ohmm|_|
 IK
-2	mSm&_&
+2	mSm|_|
 MBK
-1	_&
+1	_|
 MDS
-1	_&
+1	_|
 MGZ
-1	_&
+1	_|
 MPZ
-2	Ohmm&_&
+2	Ohmm|_|
 NKT
-2	1/m&_&
+2	1/m|_|
 OGZ
-2	Ohmm&_&
+2	Ohmm|_|
 PS
-1	_&
+1	_|
 PZ
-2	Ohmm&_&
+2	Ohmm|_|
 REZ
-1	_&
+1	_|
 DT
-4	_&US/F&us/ft&US/FT&
+4	_|US/F|us/ft|US/FT|
 GGKP
-1	_&
+1	_|
 I1A
-1	_&
+1	_|
 I2A
-1	_&
+1	_|
 I3A
-1	_&
+1	_|
 I4A
-1	_&
+1	_|
 IK1
-1	_&
+1	_|
 IK2
-1	_&
+1	_|
 IK3
-1	_&
+1	_|
 IK4
-1	_&
+1	_|
 IK5
-1	_&
+1	_|
 IKI
-1	_&
+1	_|
 NKTB
-1	_&
+1	_|
 NKTM
-1	_&
+1	_|
 RI1
-1	_&
+1	_|
 RI2
-1	_&
+1	_|
 RI3
-1	_&
+1	_|
 RI4
-1	_&
+1	_|
 RO05
-1	_&
+1	_|
 RO07
-1	_&
+1	_|
 RO10
-1	_&
+1	_|
 RO14
-1	_&
+1	_|
 RO20
-1	_&
+1	_|
 RS
-4	_&UNKNOWN&ohm.m&OHMM&
+4	_|UNKNOWN|ohm.m|OHMM|
 NNB
-1	_&
+1	_|
 NNM
-1	_&
+1	_|
 KOL
-1	_&
+1	_|
 KPER
-1	_&
+1	_|
 KPOR
-1	_&
+1	_|
 KGL
-1	_&
+1	_|
 KKARB
-1	_&
+1	_|
 KPES_AL
-1	_&
+1	_|
 LOB
-1	_&
+1	_|
 NOB
-1	_&
+1	_|
 SOIL
-1	_&
+1	_|
 KANG
-1	_&
+1	_|
 KP_BL
-1	_&
+1	_|
 KARG
-1	_&
+1	_|
 KDOL
-1	_&
+1	_|
 KIZV
-1	_&
+1	_|
 KP_VT
-1	_&
+1	_|
 LGA1A2
-1	_&
+1	_|
 MKV
-1	_&
+1	_|
 T1
-1	_&
+1	_|
 T2
-1	_&
+1	_|
 GGK_P
-1	_&
+1	_|
 DN
-1	_&
+1	_|
 DS_1
-1	_&
+1	_|
 IK_A
-1	_&
+1	_|
 IK_R
-1	_&
+1	_|
 NGK
-1	_&
+1	_|
 P_PS
-1	_&
+1	_|
 PSISH
-1	_&
+1	_|
 IKZ
-1	_&
+1	_|
 GZ6
-1	_&
+1	_|
 NKT2
-1	_&
+1	_|
 IKR
-1	_&
+1	_|
 IKA
-1	_&
+1	_|
 AL1
-1	_&
+1	_|
 AL2
-1	_&
+1	_|
 AP1
-1	_&
+1	_|
 AP2
-1	_&
+1	_|
 AS1
-1	_&
+1	_|
 AS2
-1	_&
+1	_|
 DTL
-2	_&us/ft&
+2	_|us/ft|
 DTP
-1	_&
+1	_|
 T1L
-1	_&
+1	_|
 T1P
-1	_&
+1	_|
 T1S
-1	_&
+1	_|
 T2L
-1	_&
+1	_|
 T2P
-1	_&
+1	_|
 T2S
-1	_&
+1	_|
 VP
-1	_&
+1	_|
 VS
-1	_&
+1	_|
 A1L
-1	_&
+1	_|
 A1P
-1	_&
+1	_|
 A1S
-1	_&
+1	_|
 A2L
-1	_&
+1	_|
 A2P
-1	_&
+1	_|
 A2S
-1	_&
+1	_|
 KANG0
-1	_&
+1	_|
 GZ_Z
-1	_&
+1	_|
 DNOM
-1	_&
+1	_|
 GGK
-1	_&
+1	_|
 M__DEPTH
-1	FT&
+1	FT|
 GRPIPE
-1	GAPI&
+1	GAPI|
 BITSIZE
-1	IN&
+1	IN|
 LL8
-1	OHMM&
+1	OHMM|
 ILM
-1	OHMM&
+1	OHMM|
 ILD
-1	OHMM&
+1	OHMM|
 MUDWGT
-1	LBS/GAL&
+1	LBS/GAL|
 LLD
-1	OHMM&
+1	OHMM|
 LLS
-1	OHMM&
+1	OHMM|
 SFL_A
-1	OHMM&
+1	OHMM|
 MSFL
-1	OHMM&
+1	OHMM|
 DEPTH
-3	M&m&0.1 in&
+3	M|m|0.1 in|
 ABDCQF01
-1	g/cm3&
+1	g/cm3|
 ABDCQF02
-1	g/cm3&
+1	g/cm3|
 ABDCQF03
-1	g/cm3&
+1	g/cm3|
 ABDCQF04
-1	g/cm3&
+1	g/cm3|
 NBGRCFM
-1	API&
+1	API|
 RACEHM
-2	ohm.m&UNKNOWN&
+2	ohm.m|UNKNOWN|
 RACELM
-2	ohm.m&UNKNOWN&
+2	ohm.m|UNKNOWN|
 RD
-3	ohm.m&UNKNOWN&OHMM&
+3	ohm.m|UNKNOWN|OHMM|
 RM
-1	ohm.m&
+1	ohm.m|
 RPCEHM
-2	ohm.m&UNKNOWN&
+2	ohm.m|UNKNOWN|
 RPCELM
-2	ohm.m&UNKNOWN&
+2	ohm.m|UNKNOWN|
 BVW
-3	v/v&V/V&v/v_decimal&
+3	v/v|V/V|v/v_decimal|
 COAL_FLAG
-3	unitless&UNKNOWN&UNITLESS&
+3	unitless|UNKNOWN|UNITLESS|
 KLOGH
-2	mD&MD&
+2	mD|MD|
 PHIF
-3	v/v&V/V&v/v_decimal&
+3	v/v|V/V|v/v_decimal|
 SAND_FLAG
-3	unitless&UNKNOWN&UNITLESS&
+3	unitless|UNKNOWN|UNITLESS|
 SW
-3	v/v&V/V&v/v_decimal&
+3	v/v|V/V|v/v_decimal|
 VCARB
-2	v/v&V/V&
+2	v/v|V/V|
 VSH
-3	v/v&V/V&v/v_decimal&
+3	v/v|V/V|v/v_decimal|
 CARB_FLAG
-4	unitless&UNKNOWN&UNITLESS&V/V&
+4	unitless|UNKNOWN|UNITLESS|V/V|
 DELTA
-1	V/V&
+1	V/V|
 GRMAX
-1	GAPI&
+1	GAPI|
 GRMIN
-1	GAPI&
+1	GAPI|
 J
-1	_&
+1	_|
 KLHC_INT
-1	MD&
+1	MD|
 M
-1	UNITLESS&
+1	UNITLESS|
 N
-1	_&
+1	_|
 PERF_FLAG
-1	UNITLESS&
+1	UNITLESS|
 PORD
-1	V/V&
+1	V/V|
 RHOFL
-1	G/CM3&
+1	G/CM3|
 RHOMA
-1	G/CM3&
+1	G/CM3|
 RW
-1	OHMM&
+1	OHMM|
 SWIRR
-1	_&
+1	_|
 TEMP
-1	DEGC&
+1	DEGC|
 BWV
-1	_&
+1	_|
 KLOGV
-1	MD&
+1	MD|
 ROP5_RM
-1	UNKNOWN&
+1	UNKNOWN|
 BADDATA_FLAG
-1	unitless&
+1	unitless|
 TIME
-1	ms&
+1	ms|
 BFV_SL
-1	m3/m3&
+1	m3/m3|
 BFV_SIG_SL
-1	m3/m3&
+1	m3/m3|
 BADF_CMR_SL
-1	_&
+1	_|
 CMRP_3MS_SL
-1	m3/m3&
+1	m3/m3|
 CMFF_SL
-1	m3/m3&
+1	m3/m3|
 CMFF_SIG_SL
-1	m3/m3&
+1	m3/m3|
 CMR_PHI_CONV_SL
-1	_&
+1	_|
 CBP1_SL
-1	m3/m3&
+1	m3/m3|
 CBP2_SL
-1	m3/m3&
+1	m3/m3|
 CBP3_SL
-1	m3/m3&
+1	m3/m3|
 CBP4_SL
-1	m3/m3&
+1	m3/m3|
 CBP5_SL
-1	m3/m3&
+1	m3/m3|
 CBP6_SL
-1	m3/m3&
+1	m3/m3|
 CBP7_SL
-1	m3/m3&
+1	m3/m3|
 CBP8_SL
-1	m3/m3&
+1	m3/m3|
 CBF1_SL
-1	m3/m3&
+1	m3/m3|
 CBF2_SL
-1	m3/m3&
+1	m3/m3|
 CBF3_SL
-1	m3/m3&
+1	m3/m3|
 CBF4_SL
-1	m3/m3&
+1	m3/m3|
 CBF5_SL
-1	m3/m3&
+1	m3/m3|
 CBF6_SL
-1	m3/m3&
+1	m3/m3|
 CBF7_SL
-1	m3/m3&
+1	m3/m3|
 CFF1_SL
-1	m3/m3&
+1	m3/m3|
 CFF2_SL
-1	m3/m3&
+1	m3/m3|
 CFF3_SL
-1	m3/m3&
+1	m3/m3|
 CFF4_SL
-1	m3/m3&
+1	m3/m3|
 CFF5_SL
-1	m3/m3&
+1	m3/m3|
 CFF6_SL
-1	m3/m3&
+1	m3/m3|
 CFF7_SL
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_MAX_SL
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_MIN_SL
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_ZERO_SL
-1	m3/m3&
+1	m3/m3|
 NOISE_FLAG_SL
-1	_&
+1	_|
 KCMR_SL
-1	mD&
+1	mD|
 KSDR_SL
-1	mD&
+1	mD|
 KTIM_SL
-1	mD&
+1	mD|
 CMRP_POLC_SL
-1	m3/m3&
+1	m3/m3|
 T12R_SL
-1	_&
+1	_|
 T2LM_SL
-1	ms&
+1	ms|
 T2LM_SIG_SL
-1	ms&
+1	ms|
 TCMR_SL
-1	m3/m3&
+1	m3/m3|
 TCMR_SIG_SL
-1	m3/m3&
+1	m3/m3|
 T2P1_SL
-1	ms&
+1	ms|
 T2P2_SL
-1	ms&
+1	ms|
 T2P3_SL
-1	ms&
+1	ms|
 WAIT_FLAG_SL
-1	_&
+1	_|
 ETIM
-1	s&
+1	s|
 ACQ_TIME_SL
-1	ms&
+1	ms|
 AC_REL_STATE_SL
-1	_&
+1	_|
 B0_MC_SL
-1	mT&
+1	mT|
 LOOP_SL
-1	_&
+1	_|
 CMR_GAIN_SL
-1	_&
+1	_|
 CMR_TEMP_SL
-1	degC&
+1	degC|
 CART_TEMP_SL
-1	degC&
+1	degC|
 CMR_TEMP_RAW_SL
-1	_&
+1	_|
 CPUU_DHC_SL
-1	%&
+1	%|
 DELTA_B0_SL
-1	mT&
+1	mT|
 DHC_CLOCK_SL
-1	_&
+1	_|
 DHC_ERR_SL
-1	_&
+1	_|
 DSP_ERR_SL
-1	_&
+1	_|
 DSPPS_SL
-1	_&
+1	_|
 DSPPT_SL
-1	ms&
+1	ms|
 ECHO_BASE_SL
-1	V&
+1	V|
 HPB0_SL
-1	mT&
+1	mT|
 HPB0_RAW_SL
-1	_&
+1	_|
 B0_TEMP_SL
-1	mT&
+1	mT|
 HPB0CH_SL
-1	V&
+1	V|
 HPB0CL_SL
-1	V&
+1	V|
 HV_CUR_SL
-1	mA&
+1	mA|
 HV_LOADED_SL
-1	V&
+1	V|
 HV_PEAK_CUR_SL
-1	mA&
+1	mA|
 HV_REG_SL
-1	V&
+1	V|
 HV_UNREG_SL
-1	V&
+1	V|
 INV_AMP_MC_25_SL
-1	_&
+1	_|
 MINUS_15V_SL
-1	V&
+1	V|
 MINUS_5V_ANA_SL
-1	V&
+1	V|
 NUM_MSG_SL
-1	_&
+1	_|
 FREQ_OP_ID_SL
-1	_&
+1	_|
 PLUS_15V_SL
-1	V&
+1	V|
 PLUS_5V_SL
-1	V&
+1	V|
 PLUS_5V_ANA_SL
-1	V&
+1	V|
 STA_STACK_LEVEL_SL
-1	_&
+1	_|
 NOISE_UNSTACK_SL
-1	_&
+1	_|
 TCH_SL
-1	V&
+1	V|
 TCL_SL
-1	V&
+1	V|
 TOPL_SL
-1	V&
+1	V|
 TUNE_WORD_SL
-1	_&
+1	_|
 TW_OFFSET_SL
-1	_&
+1	_|
 AMP0_DIST_SL
-1	V&
+1	V|
 CMR_RAW_PHI_SL
-1	m3/m3&
+1	m3/m3|
 AMP_DIST_SL
-1	V&
+1	V|
 AMP_DIST_SIG_SL
-1	V&
+1	V|
 POLC_SL
-1	_&
+1	_|
 GAMMA_SL
-1	_&
+1	_|
 NOISE_TOOL_SL
-1	m3/m3&
+1	m3/m3|
 NOISE_TOOL_WSUM_SL
-1	m3/m3&
+1	m3/m3|
 NOISE_ENV_SL
-1	m3/m3&
+1	m3/m3|
 RMS_NOISE_SL
-1	V&
+1	V|
 CMSN_SL
-1	_&
+1	_|
 SIG_PROC_ERR_SL
-1	_&
+1	_|
 NOISE_PWR_SL
-1	_&
+1	_|
 FREQ_OP_SL
-1	Hz&
+1	Hz|
 SPHASE_SL
-1	deg&
+1	deg|
 STATE_ERR_SL
-1	_&
+1	_|
 CMR_SIG_PROC_SW_RT_SL
-1	_&
+1	_|
 VOLT_ERR_SL
-1	_&
+1	_|
 TOOL_STATE_SL
-1	_&
+1	_|
 WSUM_SL
-1	_&
+1	_|
 ECHO_AMP_R_SL
-1	_&
+1	_|
 ECHO_AMP_X_SL
-1	_&
+1	_|
 ECGR
-1	gAPI&
+1	gAPI|
 HV
-1	V&
+1	V|
 BFV
-1	m3/m3&
+1	m3/m3|
 BFV_SIG
-1	m3/m3&
+1	m3/m3|
 BADF_CMR
-1	_&
+1	_|
 CMRP_3MS
-1	m3/m3&
+1	m3/m3|
 CMFF
-1	m3/m3&
+1	m3/m3|
 CMFF_SIG
-1	m3/m3&
+1	m3/m3|
 CMR_PHI_CONV
-1	_&
+1	_|
 CBP1
-1	m3/m3&
+1	m3/m3|
 CBP2
-1	m3/m3&
+1	m3/m3|
 CBP3
-1	m3/m3&
+1	m3/m3|
 CBP4
-1	m3/m3&
+1	m3/m3|
 CBP5
-1	m3/m3&
+1	m3/m3|
 CBP6
-1	m3/m3&
+1	m3/m3|
 CBP7
-1	m3/m3&
+1	m3/m3|
 CBP8
-1	m3/m3&
+1	m3/m3|
 CBF1
-1	m3/m3&
+1	m3/m3|
 CBF2
-1	m3/m3&
+1	m3/m3|
 CBF3
-1	m3/m3&
+1	m3/m3|
 CBF4
-1	m3/m3&
+1	m3/m3|
 CBF5
-1	m3/m3&
+1	m3/m3|
 CBF6
-1	m3/m3&
+1	m3/m3|
 CBF7
-1	m3/m3&
+1	m3/m3|
 CFF1
-1	m3/m3&
+1	m3/m3|
 CFF2
-1	m3/m3&
+1	m3/m3|
 CFF3
-1	m3/m3&
+1	m3/m3|
 CFF4
-1	m3/m3&
+1	m3/m3|
 CFF5
-1	m3/m3&
+1	m3/m3|
 CFF6
-1	m3/m3&
+1	m3/m3|
 CFF7
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_MAX
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_MIN
-1	m3/m3&
+1	m3/m3|
 CMRP_T1T2R_ZERO
-1	m3/m3&
+1	m3/m3|
 NO_UPDATE_COUNT
-1	_&
+1	_|
 LOG_T2CUTOFF
-1	ms&
+1	ms|
 NOISE_FLAG
-1	_&
+1	_|
 KCMR
-1	mD&
+1	mD|
 KSDR
-1	mD&
+1	mD|
 KTIM
-1	mD&
+1	mD|
 CMRP_POLC
-1	m3/m3&
+1	m3/m3|
 T12R
-1	_&
+1	_|
 T2LM
-1	ms&
+1	ms|
 T2LM_SIG
-1	ms&
+1	ms|
 TCMR
-1	m3/m3&
+1	m3/m3|
 TCMR_SIG
-1	m3/m3&
+1	m3/m3|
 T2P1
-1	ms&
+1	ms|
 T2P2
-1	ms&
+1	ms|
 T2P3
-1	ms&
+1	ms|
 WAIT_FLAG
-1	_&
+1	_|
 ACQ_TIME
-1	ms&
+1	ms|
 AC_REL_STATE
-1	_&
+1	_|
 B0_MC
-1	mT&
+1	mT|
 LOOP
-1	_&
+1	_|
 CMR_GAIN
-1	_&
+1	_|
 CMR_TEMP
-1	degC&
+1	degC|
 CART_TEMP
-1	degC&
+1	degC|
 CMR_TEMP_RAW
-1	_&
+1	_|
 CPUU_DHC
-1	%&
+1	%|
 DELTA_B0
-1	mT&
+1	mT|
 DHC_CLOCK
-1	_&
+1	_|
 DHC_ERR
-1	_&
+1	_|
 DSP_ERR
-1	_&
+1	_|
 DSPPS
-1	_&
+1	_|
 DSPPT
-1	ms&
+1	ms|
 ECHO_BASE
-1	V&
+1	V|
 HPB0
-1	mT&
+1	mT|
 HPB0_RAW
-1	_&
+1	_|
 B0_TEMP
-1	mT&
+1	mT|
 HPB0CH
-1	V&
+1	V|
 HPB0CL
-1	V&
+1	V|
 HV_CUR
-1	mA&
+1	mA|
 HV_LOADED
-1	V&
+1	V|
 HV_PEAK_CUR
-1	mA&
+1	mA|
 HV_REG
-1	V&
+1	V|
 HV_UNREG
-1	V&
+1	V|
 INV_AMP_MC_25
-1	_&
+1	_|
 MINUS_15V
-1	V&
+1	V|
 MINUS_5V_ANA
-1	V&
+1	V|
 NUM_MSG
-1	_&
+1	_|
 FREQ_OP_ID
-1	_&
+1	_|
 PLUS_15V
-1	V&
+1	V|
 PLUS_5V
-1	V&
+1	V|
 PLUS_5V_ANA
-1	V&
+1	V|
 TCH
-1	V&
+1	V|
 TCL
-1	V&
+1	V|
 TOPL
-1	V&
+1	V|
 TUNE_WORD
-1	_&
+1	_|
 TW_OFFSET
-1	_&
+1	_|
 RGR
-1	gAPI&
+1	gAPI|
 CVEL
-2	m/min&ft/h&
+2	m/min|ft/h|
 STIA
-1	m&
+1	m|
 STIT
-1	m&
+1	m|
 DF
-2	N&lbf&
+2	N|lbf|
 CDF
-2	N&lbf&
+2	N|lbf|
 AMP0_DIST
-1	V&
+1	V|
 CMR_RAW_PHI
-1	m3/m3&
+1	m3/m3|
 AMP_DIST
-1	V&
+1	V|
 AMP_DIST_SIG
-1	V&
+1	V|
 POLC
-1	_&
+1	_|
 GAMMA
-1	_&
+1	_|
 NOISE_TOOL
-1	m3/m3&
+1	m3/m3|
 NOISE_TOOL_WSUM
-1	m3/m3&
+1	m3/m3|
 NOISE_ENV
-1	m3/m3&
+1	m3/m3|
 RMS_NOISE
-1	V&
+1	V|
 CMSN
-1	_&
+1	_|
 SIG_PROC_ERR
-1	_&
+1	_|
 NOISE_PWR
-1	_&
+1	_|
 FREQ_OP
-1	Hz&
+1	Hz|
 SPHASE
-1	deg&
+1	deg|
 STATE_ERR
-1	_&
+1	_|
 CMR_SIG_PROC_SW_RT
-1	_&
+1	_|
 VOLT_ERR
-1	_&
+1	_|
 TOOL_STATE
-1	_&
+1	_|
 WSUM
-1	_&
+1	_|
 ECHO_AMP_R
-1	_&
+1	_|
 ECHO_AMP_X
-1	_&
+1	_|
 IDWD
-2	0.1 in&m&
+2	0.1 in|m|
 SCD
-1	0.1 in&
+1	0.1 in|
 CBLF
-1	mV&
+1	mV|
 BI
-1	_&
+1	_|
 TT1
-1	us&
+1	us|
 TT2
-1	us&
+1	us|
 TT2S
-1	us&
+1	us|
 CBFS
-1	mV&
+1	mV|
 CBL
-1	mV&
+1	mV|
 CBSL
-1	mV&
+1	mV|
 TTFS
-1	us&
+1	us|
 TTSL
-1	us&
+1	us|
 VDL
-1	_&
+1	_|
 CCL
-3	_&mV&mv&
+3	_|mV|mv|
 EHLLD
-1	_&
+1	_|
 EHRLD
-1	_&
+1	_|
 HRMR
-1	_&
+1	_|
 SHLLD
-1	_&
+1	_|
 SHLLS
-1	_&
+1	_|
 SHRLD
-1	_&
+1	_|
 SHRLS
-1	_&
+1	_|
 SHRLE
-1	_&
+1	_|
 SHRMD
-1	_&
+1	_|
 ZVVM1
-1	_&
+1	_|
 ZVVM2
-1	_&
+1	_|
 ZVMR1
-1	_&
+1	_|
 ZVMR2
-1	_&
+1	_|
 ZVMR3
-1	_&
+1	_|
 OHALS
-1	_&
+1	_|
 QCHALS
-1	_&
+1	_|
 Z24V
-1	V&
+1	V|
 Z12V
-1	V&
+1	V|
 Z05V
-1	V&
+1	V|
 ZTMP
-1	degC&
+1	degC|
 ZDRF
-1	V&
+1	V|
 ZAFQ
-1	_&
+1	_|
 ZSDF
-1	_&
+1	_|
 ZEDF
-1	_&
+1	_|
 ITT
-1	s&
+1	s|
 SPHI
-1	m3/m3&
+1	m3/m3|
 PXND_HILT
-1	m3/m3&
+1	m3/m3|
 RHGX_HILT
-1	g/cm3&
+1	g/cm3|
 UMA_HILT
-1	_&
+1	_|
 HPATT
-1	_&
+1	_|
 HLRGB
-1	_&
+1	_|
 HMRGB
-1	_&
+1	_|
 PHIE_HILT
-1	m3/m3&
+1	m3/m3|
 RMFA_HILT
-1	ohm.m&
+1	ohm.m|
 RO_HILT
-1	ohm.m&
+1	ohm.m|
 VCL_HILT
-2	pu&m3/m3&
+2	pu|m3/m3|
 RWA_HILT
-1	ohm.m&
+1	ohm.m|
 SW_HILT
-1	m3/m3&
+1	m3/m3|
 NCYT
-1	degC&
+1	degC|
 QCBSL
-1	_&
+1	_|
 BSD1
-1	_&
+1	_|
 BSFF
-1	%&
+1	%|
 BPHV
-1	V&
+1	V|
 BCQR
-1	%&
+1	%|
 BLEW
-1	1/s&
+1	1/s|
 SSD1
-1	_&
+1	_|
 SSFF
-1	%&
+1	%|
 SPHV
-1	V&
+1	V|
 SCQR
-1	%&
+1	%|
 SLEW
-1	1/s&
+1	1/s|
 LSD1
-1	_&
+1	_|
 LSFF
-1	%&
+1	%|
 LPHV
-1	V&
+1	V|
 LCQR
-1	%&
+1	%|
 LLEW
-1	1/s&
+1	1/s|
 QCMCFL
-1	_&
+1	_|
 RXVM
-1	uV&
+1	uV|
 RXIB
-1	mA&
+1	mA|
 RXIG
-1	mA&
+1	mA|
 RXVB
-1	mV&
+1	mV|
 RXPS
-1	deg&
+1	deg|
 RDA0
-1	mV&
+1	mV|
 RD1P
-1	mV&
+1	mV|
 RD1Q
-1	mV&
+1	mV|
 RBPHV
-1	V&
+1	V|
 RSPHV
-1	V&
+1	V|
 RLPHV
-1	V&
+1	V|
 MP5V
-1	V&
+1	V|
 MP12
-1	V&
+1	V|
 MA5V
-1	V&
+1	V|
 CTMP
-1	degC&
+1	degC|
 MDIG
-1	_&
+1	_|
 TREF
-1	V&
+1	V|
 NSGD
-1	V&
+1	V|
 HTEM
-1	degC&
+1	degC|
 CFGR
-1	_&
+1	_|
 GTHV
-1	V&
+1	V|
 GCHV
-1	V&
+1	V|
 RTNR
-1	_&
+1	_|
 NPL
-1	m3/m3&
+1	m3/m3|
 RGCN
-1	1/s&
+1	1/s|
 DRTA
-1	_&
+1	_|
 DNPH
-1	m3/m3&
+1	m3/m3|
 QCPOR
-1	_&
+1	_|
 TALP
-1	_&
+1	_|
 NTHV
-1	V&
+1	V|
 NCHV
-1	V&
+1	V|
 RCFT
-1	1/s&
+1	1/s|
 RCNT
-1	1/s&
+1	1/s|
 CFTC
-1	1/s&
+1	1/s|
 TNRA
-1	_&
+1	_|
 CNTC
-1	1/s&
+1	1/s|
 NPOR
-1	m3/m3&
+1	m3/m3|
 GDEV
-1	deg&
+1	deg|
 HWER
-1	m&
+1	m|
 ATEMP
-1	degC&
+1	degC|
 TGST
-1	m/s2&
+1	m/s2|
 HHVO
-1	V&
+1	V|
 HP5V
-1	V&
+1	V|
 HP15
-1	V&
+1	V|
 HM15
-1	V&
+1	V|
 HAGR
-1	V&
+1	V|
 HDGR
-1	V&
+1	V|
 SPAR
-1	mV&
+1	mV|
 RSP
-1	mV&
+1	mV|
 RSPA
-1	mV&
+1	mV|
 FCD
-1	in&
+1	in|
 HDAR
-1	in&
+1	in|
 ZAZR1
-1	_&
+1	_|
 ZRST
-1	_&
+1	_|
 ZHPU
-1	_&
+1	_|
 ZDPU
-1	_&
+1	_|
 ZDIA
-1	_&
+1	_|
 SVEL
-1	m/s&
+1	m/s|
 EBSZ
-1	%&
+1	%|
 ESSZ
-1	%&
+1	%|
 ELSZ
-1	%&
+1	%|
 BDIG
-1	_&
+1	_|
 SDIG
-1	_&
+1	_|
 LDIG
-1	_&
+1	_|
 RDIA
-1	_&
+1	_|
 NDIA
-1	_&
+1	_|
 HWEC
-1	deg/m&
+1	deg/m|
 HDIG
-1	_&
+1	_|
 AREA
-2	m2&in2&
+2	m2|in2|
 AFCD
-1	m2&
+1	m2|
 ABS
-1	m2&
+1	m2|
 HDRX
-1	_&
+1	_|
 QCRXO
-1	_&
+1	_|
 RXOI
-1	ohm.m&
+1	ohm.m|
 RXV
-1	mV&
+1	mV|
 RXI0
-1	uA&
+1	uA|
 RVV
-1	mV&
+1	mV|
 RVID
-1	uA&
+1	uA|
 RVIS
-1	uA&
+1	uA|
 HRCAL
-1	in&
+1	in|
 HCAL
-1	in&
+1	in|
 BWTO
-1	1/s&
+1	1/s|
 SWTO
-1	1/s&
+1	1/s|
 LHEW
-1	1/s&
+1	1/s|
 HMAS
-1	_&
+1	_|
 FCBR
-1	ohm.m&
+1	ohm.m|
 BIOM
-1	_&
+1	_|
 SIOM
-1	_&
+1	_|
 LIOM
-1	_&
+1	_|
 RIOM
-1	_&
+1	_|
 NIOM
-1	_&
+1	_|
 HIOM
-1	_&
+1	_|
 MIOM
-1	_&
+1	_|
 TQCA
-1	_&
+1	_|
 BSW
-1	1/s&
+1	1/s|
 LSW
-1	1/s&
+1	1/s|
 SSW
-1	1/s&
+1	1/s|
 BSWU
-1	1/s&
+1	1/s|
 SSWU
-1	1/s&
+1	1/s|
 LSWU
-1	1/s&
+1	1/s|
 LWTO
-1	1/s&
+1	1/s|
 ZIT1
-1	mA&
+1	mA|
 ZIA1
-1	mA&
+1	mA|
 ZIA2
-1	mA&
+1	mA|
 ZVT1
-1	mV&
+1	mV|
 ZVT2
-1	mV&
+1	mV|
 ZVT3
-1	mV&
+1	mV|
 ZVTQ
-1	mV&
+1	mV|
 ZVB1
-1	mV&
+1	mV|
 ZVBQ
-1	mV&
+1	mV|
 ZVM1
-1	uV&
+1	uV|
 ZVM2
-1	uV&
+1	uV|
 ZVM3
-1	uV&
+1	uV|
 ZVH1
-1	uV&
+1	uV|
 ZVH2
-1	uV&
+1	uV|
 ZVH3
-1	uV&
+1	uV|
 ZVV1
-1	uV&
+1	uV|
 ZVV2
-1	uV&
+1	uV|
 ZVA1
-1	mV&
+1	mV|
 ZVA2
-1	mV&
+1	mV|
 ZVA3
-1	mV&
+1	mV|
 ZVD1
-1	uV&
+1	uV|
 ZVD2
-1	uV&
+1	uV|
 ZI03
-1	uA&
+1	uA|
 ZVD3
-1	uV&
+1	uV|
 ZBA1
-1	dB&
+1	dB|
 ZBA2
-1	dB&
+1	dB|
 ZBA3
-1	dB&
+1	dB|
 ZPIT
-1	deg&
+1	deg|
 ZPIA
-1	deg&
+1	deg|
 ZPI0
-1	deg&
+1	deg|
 AMF1
-1	_&
+1	_|
 DGA1
-1	_&
+1	_|
 HTH1
-1	_&
+1	_|
 NAM1
-1	_&
+1	_|
 SOT1
-1	us&
+1	us|
 SNR1
-1	_&
+1	_|
 TLO1
-1	us&
+1	us|
 THI1
-1	us&
+1	us|
 AMF2
-1	_&
+1	_|
 DGA2
-1	_&
+1	_|
 HTH2
-1	_&
+1	_|
 NAM2
-1	_&
+1	_|
 SOT2
-1	us&
+1	us|
 SNR2
-1	_&
+1	_|
 TLO2
-1	us&
+1	us|
 THI2
-1	us&
+1	us|
 AMF3
-1	_&
+1	_|
 DGA3
-1	_&
+1	_|
 HTH3
-1	_&
+1	_|
 NAM3
-1	_&
+1	_|
 SOT3
-1	us&
+1	us|
 SNR3
-1	_&
+1	_|
 TT3
-1	us&
+1	us|
 TLO3
-1	us&
+1	us|
 THI3
-1	us&
+1	us|
 AMF4
-1	_&
+1	_|
 DGA4
-1	_&
+1	_|
 HTH4
-1	_&
+1	_|
 NAM4
-1	_&
+1	_|
 SOT4
-1	us&
+1	us|
 SNR4
-1	_&
+1	_|
 TT4
-1	us&
+1	us|
 TLO4
-1	us&
+1	us|
 THI4
-1	us&
+1	us|
 WF1N
-1	_&
+1	_|
 WF2N
-1	_&
+1	_|
 WF3N
-1	_&
+1	_|
 WF4N
-1	_&
+1	_|
 WDE3
-1	us&
+1	us|
 WDE4
-1	us&
+1	us|
 WDE1
-1	us&
+1	us|
 WDE2
-1	us&
+1	us|
 CDH
-1	in&
+1	in|
 CCHLLD
-1	_&
+1	_|
 CCHLLS
-1	_&
+1	_|
 CCHRLD
-1	_&
+1	_|
 CCHRLS
-1	_&
+1	_|
 ECC
-1	in&
+1	in|
 HLLD
-1	ohm.m&
+1	ohm.m|
 HLLG
-1	ohm.m&
+1	ohm.m|
 HLLS
-1	ohm.m&
+1	ohm.m|
 HRLD
-1	ohm.m&
+1	ohm.m|
 HRLS
-1	ohm.m&
+1	ohm.m|
 HRLE
-1	in&
+1	in|
 HRM
-1	ohm.m&
+1	ohm.m|
 HSO
-1	in&
+1	in|
 QCHLLD
-1	_&
+1	_|
 QCHLLS
-1	_&
+1	_|
 TETA
-1	deg&
+1	deg|
 HART
-1	ohm.m&
+1	ohm.m|
 HDI
-1	in&
+1	in|
 HLDU
-1	ohm.m&
+1	ohm.m|
 HLGU
-1	ohm.m&
+1	ohm.m|
 HLSU
-1	ohm.m&
+1	ohm.m|
 HLLE
-1	ohm.m&
+1	ohm.m|
 HRDU
-1	ohm.m&
+1	ohm.m|
 HRSU
-1	ohm.m&
+1	ohm.m|
 HREU
-1	in&
+1	in|
 HRMD
-1	ohm.m&
+1	ohm.m|
 HRMS
-1	ohm.m&
+1	ohm.m|
 DSOZ
-1	in&
+1	in|
 HPRA
-1	_&
+1	_|
 HDRB
-1	g/cm3&
+1	g/cm3|
 PEA
-1	_&
+1	_|
 PEFBA
-1	_&
+1	_|
 PEFSA
-1	_&
+1	_|
 PEFLA
-1	_&
+1	_|
 QCRH
-1	_&
+1	_|
 QCPEF
-1	_&
+1	_|
 RHBA
-1	g/cm3&
+1	g/cm3|
 RHSA
-1	g/cm3&
+1	g/cm3|
 RHLA
-1	g/cm3&
+1	g/cm3|
 ROMZ
-1	g/cm3&
+1	g/cm3|
 DPHZ
-1	m3/m3&
+1	m3/m3|
 HMIN
-1	ohm.m&
+1	ohm.m|
 HMNO
-1	ohm.m&
+1	ohm.m|
 RSOZ
-1	in&
+1	in|
 RSO8
-1	in&
+1	in|
 RMCZ
-1	ohm.m&
+1	ohm.m|
 EHGR
-1	gAPI&
+1	gAPI|
 RHGR
-1	gAPI&
+1	gAPI|
 HGR
-1	gAPI&
+1	gAPI|
 RGHN
-1	1/s&
+1	1/s|
 HDRT
-1	_&
+1	_|
 HTNP
-1	m3/m3&
+1	m3/m3|
 HTAL
-1	_&
+1	_|
 RHFT
-1	1/s&
+1	1/s|
 RHNT
-1	1/s&
+1	1/s|
 HCFT
-1	1/s&
+1	1/s|
 HCNT
-1	1/s&
+1	1/s|
 HNPO
-1	m3/m3&
+1	m3/m3|
 HARD
-1	ohm.m&
+1	ohm.m|
 HARS
-1	ohm.m&
+1	ohm.m|
 ZAP1
-1	uV&
+1	uV|
 ZAP2
-1	uV&
+1	uV|
 ZAP3
-1	uV&
+1	uV|
 HAUD
-1	ohm.m&
+1	ohm.m|
 HAUS
-1	ohm.m&
+1	ohm.m|
 DST1
-1	_&
+1	_|
 DST2
-1	_&
+1	_|
 DST3
-1	_&
+1	_|
 DST4
-1	_&
+1	_|
 DSTT
-1	_&
+1	_|
 WF1
-1	_&
+1	_|
 WF2
-1	_&
+1	_|
 WF3
-1	_&
+1	_|
 WF4
-1	_&
+1	_|
 WF3R
-1	_&
+1	_|
 WF4R
-1	_&
+1	_|
 WF1R
-1	_&
+1	_|
 WF2R
-1	_&
+1	_|
 HARE
-1	in&
+1	in|
 HAUE
-1	in&
+1	in|
 HAZ
-1	m/s2&
+1	m/s2|
 AZSN
-1	_&
+1	_|
 AZS1
-1	m/s2&
+1	m/s2|
 AZS2
-1	m/s2&
+1	m/s2|
 HAZ01
-1	m/s2&
+1	m/s2|
 RXRU
-1	ohm.m&
+1	ohm.m|
 RVDRU
-1	ohm.m&
+1	ohm.m|
 RVSRU
-1	ohm.m&
+1	ohm.m|
 RXGR
-1	ohm.m&
+1	ohm.m|
 BHC_STATUS_MAST
-1	_&
+1	_|
 BMK
-1	GPa&
+1	GPa|
 DCSI1
-1	_&
+1	_|
 DCSI2
-1	_&
+1	_|
 DTSM
-1	us/ft&
+1	us/ft|
 DT_BHC
-1	us/ft&
+1	us/ft|
 DT_COR
-1	us/ft&
+1	us/ft|
 DT_ML
-1	us/ft&
+1	us/ft|
 DT_MU
-1	us/ft&
+1	us/ft|
 DWF2
-1	_&
+1	_|
 LQC_WF1
-1	_&
+1	_|
 LQC_WF2
-1	_&
+1	_|
 PR
-1	_&
+1	_|
 SMG
-1	GPa&
+1	GPa|
 SOBS
-1	in&
+1	in|
 SSVE
-1	m/s&
+1	m/s|
 TT_ML
-1	us&
+1	us|
 TT_MU
-1	us&
+1	us|
 TT_STATUS_ML
-1	_&
+1	_|
 TT_STATUS_MU
-1	_&
+1	_|
 VPVS
-1	_&
+1	_|
 WFA1N
-1	_&
+1	_|
 WFA2N
-1	_&
+1	_|
 WFA2_MONO
-1	_&
+1	_|
 WFQC_STATUS
-1	_&
+1	_|
 YME
-1	GPa&
+1	GPa|
 DPHI_DOL
-1	m3/m3&
+1	m3/m3|
 DPHI_LIM
-1	m3/m3&
+1	m3/m3|
 DPHI_SAN
-1	m3/m3&
+1	m3/m3|
 HET
-1	degC&
+1	degC|
 NPOR_DOL
-1	m3/m3&
+1	m3/m3|
 NPOR_LIM
-1	m3/m3&
+1	m3/m3|
 NPOR_SAN
-1	m3/m3&
+1	m3/m3|
 RHET
-1	degC&
+1	degC|
 ECGR_EDTC
-1	gAPI&
+1	gAPI|
 GDEV_EDTC
-1	deg&
+1	deg|
 GR_EDTC
-1	gAPI&
+1	gAPI|
 RAZ_EDTC
-1	m/s2&
+1	m/s2|
 VSEC
-1	m&
+1	m|
 TDSP
-1	m&
+1	m|
 TVD
-1	m&
+1	m|
 GHID
-1	in&
+1	in|
 BHRM
-1	ohm.m&
+1	ohm.m|
 ED
-2	m&_&
+2	m|_|
 BFHI
-1	%&
+1	%|
 INCL
-1	deg&
+1	deg|
 TVDSS
-1	m&
+1	m|
 FF
-1	_&
+1	_|
 GHD
-1	in&
+1	in|
 AZIM
-1	deg&
+1	deg|
 ND
-1	m&
+1	m|
 ROAZ
-1	deg&
+1	deg|
 DLS
-1	deg/30m&
+1	deg/30m|
 BHPR
-2	psi&kPa&
+2	psi|kPa|
 GTEM
-1	degC&
+1	degC|
 MD
-1	0.1 in&
+1	0.1 in|
 EHMR
-1	_&
+1	_|
 ERBR
-1	_&
+1	_|
 ERMC
-1	_&
+1	_|
 ERXO
-1	_&
+1	_|
 RCOR
-1	_&
+1	_|
 RCOS
-1	_&
+1	_|
 RSOI
-1	in&
+1	in|
 FCAZ
-1	m/s2&
+1	m/s2|
 FTIM
-1	ms&
+1	ms|
 COF2
-1	_&
+1	_|
 COF3
-1	_&
+1	_|
 COF4
-1	_&
+1	_|
 DPH8
-1	m3/m3&
+1	m3/m3|
 DSO8
-1	in&
+1	in|
 EHM8
-1	m&
+1	m|
 EHMZ
-1	m&
+1	m|
 EPE8
-1	_&
+1	_|
 EPEZ
-1	_&
+1	_|
 ERO8
-1	g/cm3&
+1	g/cm3|
 EROZ
-1	g/cm3&
+1	g/cm3|
 GREZ
-1	_&
+1	_|
 HDPH_DOL
-1	m3/m3&
+1	m3/m3|
 HDPH_LIM
-1	m3/m3&
+1	m3/m3|
 HDPH_SAN
-1	m3/m3&
+1	m3/m3|
 HNPO_DOL
-1	m3/m3&
+1	m3/m3|
 HNPO_LIM
-1	m3/m3&
+1	m3/m3|
 HNPO_SAN
-1	m3/m3&
+1	m3/m3|
 HTNP_DOL
-1	m3/m3&
+1	m3/m3|
 HTNP_LIM
-1	m3/m3&
+1	m3/m3|
 HTNP_SAN
-1	m3/m3&
+1	m3/m3|
 PEM8
-1	_&
+1	_|
 PEMZ
-1	_&
+1	_|
 ROM8
-1	g/cm3&
+1	g/cm3|
 EHGR_EDTC
-1	gAPI&
+1	gAPI|
 HGR_EDTC
-1	gAPI&
+1	gAPI|
 VBD_UNCAL
-1	uV&
+1	uV|
 INVERR3
-1	_&
+1	_|
 CCRA1
-1	_&
+1	_|
 INVERR1
-1	_&
+1	_|
 RLA4_ECC
-1	ohm.m&
+1	ohm.m|
 RLA5_ECC
-1	ohm.m&
+1	ohm.m|
 RLA2_SIG
-1	ohm.m&
+1	ohm.m|
 MV_UNCAL
-1	uV&
+1	uV|
 RT_HRLT
-1	ohm.m&
+1	ohm.m|
 RLA0
-1	ohm.m&
+1	ohm.m|
 MCOST
-1	_&
+1	_|
 RLA1_SIG
-1	ohm.m&
+1	ohm.m|
 RLA3_UNCORR
-1	ohm.m&
+1	ohm.m|
 VTP_UNCAL
-1	uV&
+1	uV|
 RLA4_SIG
-1	ohm.m&
+1	ohm.m|
 RXO_HRLT
-1	ohm.m&
+1	ohm.m|
 INVERR2
-1	_&
+1	_|
 RLA2_ECC
-1	ohm.m&
+1	ohm.m|
 RLA1_UNCORR
-1	ohm.m&
+1	ohm.m|
 V34_UNCAL
-1	uV&
+1	uV|
 IV
-1	uA&
+1	uA|
 PCOST
-1	_&
+1	_|
 WEI_1D_HRLT
-1	_&
+1	_|
 V45_UNCAL
-1	uV&
+1	uV|
 INVERR4
-1	_&
+1	_|
 CCRA2
-1	_&
+1	_|
 INVERR5
-1	_&
+1	_|
 M23_UNCAL
-1	uV&
+1	uV|
 RLA0_UNCORR
-1	ohm.m&
+1	ohm.m|
 CCRA4
-1	_&
+1	_|
 DI_HRLT
-1	in&
+1	in|
 RLA1_ECC
-1	ohm.m&
+1	ohm.m|
 CLLD
-1	mS/m&
+1	mS/m|
 CCRA5
-1	_&
+1	_|
 RLA3_SIG
-1	ohm.m&
+1	ohm.m|
 M01_UNCAL
-1	uV&
+1	uV|
 RLA3_ECC
-1	ohm.m&
+1	ohm.m|
 M12_UNCAL
-1	uV&
+1	uV|
 RLA0_ECC
-1	ohm.m&
+1	ohm.m|
 CCRA3
-1	_&
+1	_|
 RLA5_SIG
-1	ohm.m&
+1	ohm.m|
 RLA2_UNCORR
-1	ohm.m&
+1	ohm.m|
 RLA4_UNCORR
-1	ohm.m&
+1	ohm.m|
 RLA5_UNCORR
-1	ohm.m&
+1	ohm.m|
 ISO_UNCAL
-1	uA&
+1	uA|
 NITERR
-1	_&
+1	_|
 V56_UNCAL
-1	uV&
+1	uV|
 RM_HRLT
-1	ohm.m&
+1	ohm.m|
 CCRA0
-1	_&
+1	_|
 DWF1_MONO
-1	_&
+1	_|
 FMDSNRM1
-1	dB&
+1	dB|
 TTM1
-1	us&
+1	us|
 FMDSNRM2
-1	dB&
+1	dB|
 TTM2
-1	us&
+1	us|
 WFA1
-1	_&
+1	_|
 WFA1N_MONO
-1	_&
+1	_|
 TTFITQM2
-1	_&
+1	_|
 DWF1
-1	_&
+1	_|
 WFA2
-1	_&
+1	_|
 DWF2_MONO
-1	_&
+1	_|
 WFA2N_MONO
-1	_&
+1	_|
 WFA1_MONO
-1	_&
+1	_|
 TTFITQM1
-1	_&
+1	_|
 AMAV
-1	mV&
+1	mV|
 AMAV5
-1	mV&
+1	mV|
 ATAV
-1	dB/ft&
+1	dB/ft|
 ATC1
-1	dB/ft&
+1	dB/ft|
 ATC1.1
-1	dB/ft&
+1	dB/ft|
 ATC2
-1	dB/ft&
+1	dB/ft|
 ATC3
-1	dB/ft&
+1	dB/ft|
 ATC4
-1	dB/ft&
+1	dB/ft|
 ATC5
-1	dB/ft&
+1	dB/ft|
 ATC6
-1	dB/ft&
+1	dB/ft|
 ATMN
-1	dB/ft&
+1	dB/ft|
 ATMX
-1	dB/ft&
+1	dB/ft|
 CEMC
-1	%&
+1	%|
 CEMO
-1	%&
+1	%|
 CEMR
-1	dB/ft&
+1	dB/ft|
 CSTAT
-1	_&
+1	_|
 CYQ
-1	_&
+1	_|
 DTMN
-2	us/ft&_&
+2	us/ft|_|
 DTMX
-2	us/ft&_&
+2	us/ft|_|
 GWAVE
-1	_&
+1	_|
 MMDC
-1	m&
+1	m|
 MMDCNT
-1	_&
+1	_|
 MMDD
-1	m&
+1	m|
 MMRK
-1	_&
+1	_|
 PERIOD
-1	us&
+1	us|
 RBSB
-1	deg&
+1	deg|
 STIME
-1	us&
+1	us|
 TTEMP
-1	_&
+1	_|
 WAVE
-1	_&
+1	_|
 WAVEF
-1	_&
+1	_|
 XATT
-1	_&
+1	_|
 YATT
-1	_&
+1	_|
 SFAN1
-1	us&
+1	us|
 SFAN2
-1	us&
+1	us|
 SFAN3
-1	us&
+1	us|
 SFAN4
-1	us&
+1	us|
 TNGN15
-1	_&
+1	_|
 TNST15
-1	us&
+1	us|
 TNWV15
-1	_&
+1	_|
 DEV
-1	deg&
+1	deg|
 RB
-1	deg&
+1	deg|
 SIG
-1	mV&
+1	mV|
 SPEED
-1	m/min&
+1	m/min|
 CLLS
-1	mS/m&
+1	mS/m|
 CMLL
-1	mS/m&
+1	mS/m|
 ES
-1	_&
+1	_|
 ID
-1	_&
+1	_|
 IS
-1	_&
+1	_|
 SPSBDH
-1	mV&
+1	mV|
 FCF
-1	_&
+1	_|
 GOBO
-1	mV&
+1	mV|
 BILI
-1	_&
+1	_|
 AF2S
-1	_&
+1	_|
 DG2S
-1	_&
+1	_|
 HT2S
-1	_&
+1	_|
 NA2S
-1	_&
+1	_|
 SO2S
-1	us&
+1	us|
 SN2S
-1	_&
+1	_|
 TL2S
-1	us&
+1	us|
 TH2S
-1	us&
+1	us|
 CMCG
-1	_&
+1	_|
 RAF2
-1	mV&
+1	mV|
 SAST
-1	_&
+1	_|
 DS2S
-1	_&
+1	_|
 RVD1
-1	_&
+1	_|
 RVD2
-1	_&
+1	_|
 FCCL
-1	_&
+1	_|
 RCCL
-1	_&
+1	_|
 RB_HALS
-1	deg&
+1	deg|
 P1AZ_HALS
-1	deg&
+1	deg|
 SDEV_HALS
-1	deg&
+1	deg|
 HAZI_HALS
-1	deg&
+1	deg|
 ANOR
-1	m/s2&
+1	m/s2|
 FINC
-1	deg&
+1	deg|
 HAZI
-1	deg&
+1	deg|
 P1AZ
-1	deg&
+1	deg|
 SDEV
-1	deg&
+1	deg|
 SDEVM
-1	deg&
+1	deg|
 HAZIM
-1	deg&
+1	deg|
 RB_GPIT
-1	deg&
+1	deg|
 P1AZ_GPIT
-1	deg&
+1	deg|
 GADZ
-1	V&
+1	V|
 GPV
-1	V&
+1	V|
 GNV
-1	V&
+1	V|
 GAT
-1	degC&
+1	degC|
 GMT
-1	degC&
+1	degC|
 ELA_PPC1
-1	in&
+1	in|
 ESA_PPC1
-1	in&
+1	in|
 ERA_PPC1
-1	deg&
+1	deg|
 REA_PPC1
-1	deg&
+1	deg|
 ECO_PPC1
-1	in&
+1	in|
 EMID_PPC1
-1	in&
+1	in|
 PHWA_PPC1
-1	deg&
+1	deg|
 LSR_PPC1
-1	_&
+1	_|
 OSDV_PPC1
-1	_&
+1	_|
 HDOV_PPC1
-1	in&
+1	in|
 RD1_PPC1
-1	in&
+1	in|
 RD2_PPC1
-1	in&
+1	in|
 RD3_PPC1
-1	in&
+1	in|
 RD4_PPC1
-1	in&
+1	in|
 ETC1_PPC1
-1	in&
+1	in|
 ETC2_PPC1
-1	in&
+1	in|
 EHD1_PPC1
-1	in&
+1	in|
 EHD2_PPC1
-1	in&
+1	in|
 HD1_PPC1
-1	in&
+1	in|
 HD2_PPC1
-1	in&
+1	in|
 SRD1_PPC1
-1	in&
+1	in|
 SRD2_PPC1
-1	in&
+1	in|
 CRD1_PPC1
-1	in&
+1	in|
 CRD2_PPC1
-1	in&
+1	in|
 CRD3_PPC1
-1	in&
+1	in|
 CRD4_PPC1
-1	in&
+1	in|
 RD1R_PPC1
-1	in&
+1	in|
 RD2R_PPC1
-1	in&
+1	in|
 RD3R_PPC1
-1	in&
+1	in|
 RD4R_PPC1
-1	in&
+1	in|
 RD1NA_PPC1
-1	_&
+1	_|
 RD1NB_PPC1
-1	_&
+1	_|
 RD2NA_PPC1
-1	_&
+1	_|
 RD2NB_PPC1
-1	_&
+1	_|
 RD3NA_PPC1
-1	_&
+1	_|
 RD3NB_PPC1
-1	_&
+1	_|
 RD4NA_PPC1
-1	_&
+1	_|
 RD4NB_PPC1
-1	_&
+1	_|
 LVDTEX_PPC1
-1	V&
+1	V|
 POTEX_PPC1
-1	V&
+1	V|
 PWLVDT_PPC1
-1	in&
+1	in|
 PWLVDTNA_PPC1
-1	_&
+1	_|
 PWLVDTNB_PPC1
-1	_&
+1	_|
 PAV_PPC1
-1	V&
+1	V|
 MAV_PPC1
-1	V&
+1	V|
 CT_PPC1
-1	degC&
+1	degC|
 VCC_PPC1
-1	V&
+1	V|
 VDD_PPC1
-1	V&
+1	V|
 DC_OFF_PPC1
-1	_&
+1	_|
 PWLIND_PPC1
-1	_&
+1	_|
 CWEL
-1	deg/m&
+1	deg/m|
 FNOR
-1	A/m&
+1	A/m|
 GSW
-1	_&
+1	_|
 CLOS
-1	m&
+1	m|
 TVDE
-1	m&
+1	m|
 AUX_PPC1
-1	_&
+1	_|
 PWLSTAT_PPC1
-1	_&
+1	_|
 PST_PPC1
-1	_&
+1	_|
 RB_PPC1
-1	deg&
+1	deg|
 RAF4
-1	mV&
+1	mV|
 AX
-1	m/s2&
+1	m/s2|
 AY
-1	m/s2&
+1	m/s2|
 AZ
-1	m/s2&
+1	m/s2|
 FX
-1	A/m&
+1	A/m|
 FY
-1	A/m&
+1	A/m|
 FZ
-1	A/m&
+1	A/m|
 ETOD
-1	ms&
+1	ms|
 FFEQ
-1	_&
+1	_|
 PP
-1	psi&
+1	psi|
 PTMP
-1	degC&
+1	degC|
 SGRP
-1	psi&
+1	psi|
 SGCP
-1	psi&
+1	psi|
 SGDP
-1	psi/min&
+1	psi/min|
 SGCPF
-1	psi&
+1	psi|
 HPCP
-1	psi&
+1	psi|
 HPDP
-1	psi/min&
+1	psi/min|
 HPCPF
-1	psi&
+1	psi|
 HPN
-1	_&
+1	_|
 HPTH
-1	_&
+1	_|
 HPTL
-1	_&
+1	_|
 HPNF
-1	Hz&
+1	Hz|
 SFAN1.I
-1	us&
+1	us|
 SFAN2.I
-1	us&
+1	us|
 SFAN3.I
-1	us&
+1	us|
 SFAN4.I
-1	us&
+1	us|
 TFGN02
-1	_&
+1	_|
 TFST02
-1	us&
+1	us|
 TFWV02
-1	_&
+1	_|
 TXXGN02
-1	_&
+1	_|
 TXXST02
-1	us&
+1	us|
 TXXWV02
-1	_&
+1	_|
 DT24.I
-1	us/ft&
+1	us/ft|
 DTH.I
-1	us/ft&
+1	us/ft|
 DTR.I
-1	us/ft&
+1	us/ft|
 DTT.I
-1	us/ft&
+1	us/ft|
 TT.I
-1	ms&
+1	ms|
 TTIM
-1	s&
+1	s|
 AMIN
-1	mv&
+1	mv|
 AAVG
-1	mv&
+1	mv|
 AMAX
-1	mv&
+1	mv|
 AMP1
-1	mv&
+1	mv|
 AMP2
-1	mv&
+1	mv|
 AMP3
-1	mv&
+1	mv|
 AMP4
-1	mv&
+1	mv|
 AMP5
-1	mv&
+1	mv|
 AMP6
-1	mv&
+1	mv|
 AMP7
-1	mv&
+1	mv|
 AMP8
-1	mv&
+1	mv|
 AM3F
-1	mv&
+1	mv|
 TT3F
-1	us&
+1	us|
 VAMP
-1	mv&
+1	mv|
 VDL2
-1	US&
+1	US|
 TNGN02
-1	_&
+1	_|
 TNST02
-1	us&
+1	us|
 TNWV02
-1	_&
+1	_|
 SFA11
-1	us&
+1	us|
 SFA12
-1	us&
+1	us|
 SFA13
-1	us&
+1	us|
 SFA14
-1	us&
+1	us|
 TRMGN05
-1	_&
+1	_|
 TRMST05
-1	us&
+1	us|
 TRMTT05
-1	us&
+1	us|
 TRMWV05
-1	_&
+1	_|
 GRSL
-1	gAPI&
+1	gAPI|
 K
-1	%&
+1	%|
 KAPI
-1	gAPI&
+1	gAPI|
 KTH
-1	gAPI&
+1	gAPI|
 RTHK
-1	_&
+1	_|
 RTHU
-1	_&
+1	_|
 RUK
-1	_&
+1	_|
 SPBR
-1	mV&
+1	mV|
 SPBRDH
-1	mV&
+1	mV|
 TH
-1	ppm&
+1	ppm|
 THAPI
-1	gAPI&
+1	gAPI|
 U
-1	ppm&
+1	ppm|
 UAPI
-1	gAPI&
+1	gAPI|
 C13
-1	in&
+1	in|
 C24
-1	in&
+1	in|
 CAL4
-1	in&
+1	in|
 DT24Q1
-1	us/ft&
+1	us/ft|
 AMP11QB
-1	_&
+1	_|
 AMP21QB
-1	_&
+1	_|
 ATT1QB
-1	dB/ft&
+1	dB/ft|
 ATT2QB
-1	dB/ft&
+1	dB/ft|
 FGA11QB
-1	_&
+1	_|
 FGA11QB4
-1	_&
+1	_|
 FGA21QB
-1	_&
+1	_|
 PPT11
-1	us&
+1	us|
 PPT21
-1	us&
+1	us|
 QHDL
-1	lbf&
+1	lbf|
 SFA11QB
-1	us&
+1	us|
 SFA21QB
-1	us&
+1	us|
 TRMGN11
-1	_&
+1	_|
 TRMGN21
-1	_&
+1	_|
 TRMST11
-1	us&
+1	us|
 TRMST21
-1	us&
+1	us|
 TRMTT11
-1	us&
+1	us|
 TRMTT21
-1	us&
+1	us|
 TRMWV11
-1	_&
+1	_|
 TRMWV21
-1	_&
+1	_|
 WTA
-1	degF&
+1	degF|
 WTP
-1	degF&
+1	degF|
 DRHU
-1	G/CC&
+1	G/CC|
 ROBB
-1	G/CC&
+1	G/CC|
 ROBU
-1	G/CC&
+1	G/CC|
 DRHB
-1	G/CC&
+1	G/CC|
 PHID
-1	v/v_decimal&
+1	v/v_decimal|

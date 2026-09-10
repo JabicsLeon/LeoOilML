@@ -128,7 +128,7 @@ void process(std::string way, std::string out="dict_synonyms.json", bool check =
 		for (int j = 0; j < nums; ++j)
 		{
 			std::string tp;
-			std::getline(ss, tp, '&');
+			std::getline(ss, tp, '|');
 			cheker[str].emplace_back(tp);
 		}
 	}
@@ -142,11 +142,11 @@ void process(std::string way, std::string out="dict_synonyms.json", bool check =
 	so << "{\n";
 	for (auto it : dict_syn)
 	{
-		so << "\t'"<< it.first << "' : [";
+		so << "\t\""<< it.first << "\" : [";
 		for (int i = 0; i < it.second.size(); ++i)
 		{
 			if (i) so << ", ";
-			so << "'" << it.second[i] << "'";
+			so << "\"" << it.second[i] << "\"";
 		}
 		so << "]";
 		if (num != max_num) so <<","; num++;
@@ -159,20 +159,20 @@ void process(std::string way, std::string out="dict_synonyms.json", bool check =
 
 int main(int narg, char* args[])
 {
-	if (narg < 2) throw std::invalid_argument("There's no way to file!\nUsage: program list_synomycs.txt  check=[true/false] [output_file] [cost_of_emplace] [cost_of_delete] [cost_of_swap]");
+	if (narg < 2) throw std::invalid_argument("There's no way to file!\nUsage: program list_synomycs.txt [output_file] check=[0/1] [cost_of_emplace] [cost_of_delete] [cost_of_swap]");
 
 	std::string way = args[1];
 	std::string out = "dict_synonyms.json";
-	bool check = false;
+	bool check = true;
 	double empl = 1.0;
 	double del = 1.0;
 	double swp = 1.0;
 
-	if (narg == 3 && std::string(args[2]) == "check=true") check = true;
-	if (narg == 4) out = std::string(args[3]);
-	if (narg == 5) empl = std::stod(args[4]);
-	if (narg == 6) del = std::stod(args[5]);
-	if (narg == 7) swp = std::stod(args[6]);
+	if (narg >= 3) out = std::string(args[2]);
+	if (narg >= 4 && std::stoi(args[3]) == 0) check = false;
+	if (narg >= 5) empl = std::stod(args[4]);
+	if (narg >= 6) del = std::stod(args[5]);
+	if (narg >= 7) swp = std::stod(args[6]);
 	
 	process(way, out, check, empl, del, swp);
 	
