@@ -164,6 +164,8 @@ import sqlite3
 from dlisio import dlis
 from dlisio.common import ErrorHandler, Actions
 
+Read_2D = False
+
 eh = ErrorHandler(critical=Actions.LOG_ERROR)
 
 def dlis_frame_to_dataframe(frame):
@@ -176,7 +178,7 @@ def dlis_frame_to_dataframe(frame):
 		if field_dtype.shape == ():
 			data[name] = field
 		else:
-			if field.ndim == 2:
+			if Read_2D and field.ndim == 2:
 				flat = np.array([np.array(x).flatten() for x in field])
 				for i in range(flat.shape[1]):
 					data[f"{name}_{i+1}"] = flat[:, i]
@@ -294,7 +296,7 @@ def file_to_sqlite(cur, file):
 		)
 		
 
-		data_rows = [("$id", m, depth, value) for m in mn if m != depth_name for depth, value in zip(las.curves[depth_name], las.curves[m]) if pd.notna(value) and math.isfinite(value)]
+		data_rows = [("$id", m, depth, value) for m in mn if m != depth_name for depth, value in zip(las.curves[depth_name].data, las.curves[m].data) if pd.notna(value) and math.isfinite(value)]
 		cur.executemany(
 			"INSERT INTO Data_well (id, method, z, value) VALUES (?, ?, ?, ?)"
 			"ON CONFLICT (id, method, z) DO NOTHING",
@@ -317,7 +319,7 @@ if __name__=="__main__":
 EDF
 }
 
-🛡️ Bash Guard 🛡️
+#🛡️ Bash Guard 🛡️
 space_disk_check()
 {
 local path="$1"
